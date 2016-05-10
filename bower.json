@@ -1,0 +1,14 @@
+{
+  "name": "jquery-ui-rotatable-touch-support",
+  "homepage": "https://github.com/eeriksen/jquery-ui-rotatable",
+  "version": "1.0.1",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "2cb6d504decb571fb865fc3ae060e672c3bc55e9"
+  },
+  "_source": "git://github.com/eeriksen/jquery-ui-rotatable.git",
+  "_target": "~1.0.1",
+  "_originalSource": "jquery-ui-rotatable"
+}
